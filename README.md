@@ -2,17 +2,17 @@
 <!-- =================== MANSUR'S GITHUB PROFILE README ==================== -->
 <!-- ======================================================================= -->
 
-<!-- 1. DYNAMIC HEADER BANNER -->
+<!-- 1. DYNAMIC HEADER BANNER (KATTALASHTIRILGAN VA XATOSIZ VARIANT) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00c2e8&height=280&section=header&text=MANSUR%20DURDIMATOV&fontSize=55&fontColor=00c2e8&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%7C%20IoT%20Engineer&descAlignY=55&descAlign=60" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00c2e8&height=300&section=header&text=MANSUR%20DURDIMATOV&fontSize=65&fontColor=00c2e8&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20IoT%20Engineer&descSize=22&descAlignY=70" width="100%" alt="Mansur Header Banner" />
 </div>
 
 <br />
 
-<!-- 2. TYPING ANIMATION TEXT -->
+<!-- 2. TYPING ANIMATION TEXT (YIRIKLASHTIRILDI) -->
 <div align="center">
   <a href="https://github.com/durd1ma7ov06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00C2E8&center=true&vCenter=true&width=800&lines=🚀+FULL+STACK+WEB+DEVELOPER;🔌+IoT+%26+EMBEDDED+SYSTEMS+ENGINEER;🧠+BUILDING+SMART+HARDWARE+%26+AI;💻+PYTHON++|++C%2B%2B++|++JAVA;🛠️+AUTOMATING+THE+FUTURE+WITH+CODE" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=00C2E8&center=true&vCenter=true&width=850&lines=🚀+FULL+STACK+WEB+DEVELOPER;🔌+IoT+%26+EMBEDDED+SYSTEMS+ENGINEER;🧠+BUILDING+SMART+HARDWARE+%26+AI;💻+PYTHON++|++C%2B%2B++|++JAVA;🛠️+AUTOMATING+THE+FUTURE+WITH+CODE" alt="Typing Animation" />
   </a>
 </div>
 
@@ -96,7 +96,6 @@
       <div>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
       </div>
       
       <br />
