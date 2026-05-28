@@ -2,34 +2,43 @@
 <!-- =================== MANSUR'S GITHUB PROFILE README ==================== -->
 <!-- ======================================================================= -->
 
-<!-- 1. DYNAMIC HEADER BANNER (BARQAROR VA XATOSIZ VARIANT) -->
+<!-- 1. HEADER BANNER (YANGI DIZAYN) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00c2e8&height=250&section=header&text=MANSUR%20DURDIMATOV&fontSize=60&fontColor=00c2e8&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9D00FF,008080&height=220&section=header&text=Salom,%20men%20Mansur!&fontSize=55&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
 </div>
 
 <br />
 
-<!-- 2. TYPING ANIMATION TEXT (100% OCHILADI, SERVER UCHUN OPTIMALLASHTIRILDI) -->
+<!-- 2. TITLE TEXT (YANGI DIZAYN) -->
 <div align="center">
-  <a href="https://github.com/durd1ma7ov06">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2E8&center=true&vCenter=true&width=800&lines=FULL+STACK+WEB+DEVELOPER;IoT+%26+EMBEDDED+SYSTEMS+ENGINEER;BUILDING+SMART+HARDWARE+%26+AI;PYTHON+|+C%2B%2B+|+JAVA;AUTOMATING+THE+FUTURE" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=IoT+%26+Embedded+Engineer+%F0%9F%8C%B1" alt="IoT & Embedded Engineer" />
+</div>
+
+<!-- 3. BADGES & SOCIAL LINKS (YANGI DIZAYN) -->
+<div align="center">
+  <a href="mailto:durdimatovmansur@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-E24329?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/durd1ma7ov06">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/ORG-555555?style=for-the-badge&logo=github&logoColor=white" alt="Organization" />
+  <img src="https://img.shields.io/badge/UNI--NAV-0066CC?style=for-the-badge" alt="UNI-NAV" />
+  <img src="https://img.shields.io/badge/UZBEKISTAN-00A65A?style=for-the-badge&logo=wechat&logoColor=white" alt="Uzbekistan" />
 </div>
 
 <br />
 
-<!-- 3. LIVE PROFILE BADGES -->
+<!-- 4. PROFILE VIEWS (YANGI DIZAYN) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=durd1ma7ov06&color=00c2e8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/durd1ma7ov06?label=FOLLOWERS&style=for-the-badge&color=6f42c1&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-success?style=for-the-badge&color=00C2E8" alt="System Status" />
+  <img src="https://komarev.com/ghpvc/?username=durd1ma7ov06&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
 <hr />
 <br />
 
-<!-- 4. ABOUT ME & SYSTEM ROLE -->
+<!-- 5. ABOUT ME & SYSTEM ROLE -->
 <div align="center">
   <h2>🛰️ SYSTEM ARCHITECTURE & PROFESSIONAL LEVEL</h2>
 </div>
@@ -62,7 +71,7 @@
 <hr />
 <br />
 
-<!-- 5. TECHNICAL SKILLS MATRIX -->
+<!-- 6. TECHNICAL SKILLS MATRIX -->
 <div align="center">
   <h2>🛠️ CYBERNETIC ECOSYSTEM & SKILLS</h2>
 </div>
@@ -141,7 +150,7 @@
 <hr />
 <br />
 
-<!-- 6. EXPERT ASSESSMENT LEVEL GRAPHICS -->
+<!-- 7. EXPERT ASSESSMENT LEVEL GRAPHICS -->
 <div align="center">
   <h2>📊 LIVE PERFORMANCE METRICS</h2>
 </div>
@@ -161,7 +170,7 @@
 
 <br />
 
-<!-- 7. GITHUB HIGH-END STATS -->
+<!-- 8. GITHUB HIGH-END STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=durd1ma7ov06&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00c2e8&icon_color=6f42c1" width="49%" alt="Mansur GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durd1ma7ov06&layout=compact&theme=tokyonight&hide_border=true&title_color=00c2e8" width="49%" alt="Top Languages" />
@@ -169,7 +178,7 @@
 
 <br />
 
-<!-- 8. CONTRIBUTION STREAK -->
+<!-- 9. CONTRIBUTION STREAK -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=durd1ma7ov06&theme=tokyonight&hide_border=true&background=0d1117&sideNums=00c2e8&stroke=6f42c1" width="100%" alt="Streak Stats" />
 </div>
@@ -178,7 +187,7 @@
 <hr />
 <br />
 
-<!-- 9. METRIC CARDS AND REPO ANALYSIS -->
+<!-- 10. METRIC CARDS AND REPO ANALYSIS -->
 <div align="center">
   <h2>📈 GIT ACTIVITY MATRIX</h2>
 </div>
@@ -207,7 +216,7 @@
 <hr />
 <br />
 
-<!-- 10. TROPHY SHOWCASE & GRAPH NETWORK -->
+<!-- 11. TROPHY SHOWCASE & GRAPH NETWORK -->
 <div align="center">
   <h2>🏆 GITHUB TROPHY CASE & ACTIVITY</h2>
 </div>
@@ -226,7 +235,7 @@
 <hr />
 <br />
 
-<!-- 11. SNAKE ANIMATION (CONTRIBUTIONS) -->
+<!-- 12. SNAKE ANIMATION (CONTRIBUTIONS) -->
 <div align="center">
   <h2>🐍 SYSTEM COMMIT HISTORY (SNAKE)</h2>
   <picture>
@@ -240,7 +249,7 @@
 <hr />
 <br />
 
-<!-- 12. SYSTEM CONFIG JSON -->
+<!-- 13. SYSTEM CONFIG JSON -->
 <div align="center">
   <h2>🎛️ CORE NODE CONFIGURATION</h2>
 </div>
